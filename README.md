@@ -64,8 +64,8 @@ Vous aurez 5 catégories d' articles à réaliser :
     +interviews
 
 
-    Les différents page : 
-        Utilisateurs : 
+Les différents page : 
+    Utilisateurs : 
             Page d’accueil
             Page avec tous les articles par catégorie (option : mettre une barre de recherche pour retrouver les articles)
             Une page par article
