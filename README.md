@@ -10,7 +10,7 @@ Les utilisateurs devront arriver sur une page d’accueil.
 
 Le lien [Figma](https://www.figma.com/design/cLwKW2Py9YAZyoOJ9661lI/L'odyssé-Olympique?node-id=0-1&t=oGHRkFJ5U1xlUKJV-0) pour les maquettes 
 
-Le lien [Drive](https://docs.google.com/document/d/1nke2PUT8rm1FGAZR0XFDHMqlM_CzoDuCUQB833JLw74/edit?usp=sharing) pour les arctiles et le cahier des charges
+Le lien [Drive](https://docs.google.com/document/d/1nke2PUT8rm1FGAZR0XFDHMqlM_CzoDuCUQB833JLw74/edit?usp=sharing) pour les articles et le cahier des charges
 ## Liste des droits 
 
 ![image](https://github.com/user-attachments/assets/5cbe8692-73c5-4bf0-906c-74ea92ae5860)
