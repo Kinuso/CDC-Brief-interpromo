@@ -8,24 +8,25 @@ Il y aura une partie admin qui pourra gérer les utilisateurs et différents art
 
 Les utilisateurs devront arriver sur une page d’accueil.
 
-
+Le lien [Figma](https://www.figma.com/design/cLwKW2Py9YAZyoOJ9661lI/L'odyssé-Olympique?node-id=0-1&t=oGHRkFJ5U1xlUKJV-0) pour les maquettes 
 ## Liste des droits 
 
-![image](https://github.com/user-attachments/assets/fb380a19-0984-4871-91f9-92a79ebb33f6)
+![image](https://github.com/user-attachments/assets/5cbe8692-73c5-4bf0-906c-74ea92ae5860)
+
 
 ## Attentes techniques 
 
 
 Lors de l’inscription, on voudra retrouver :  
-    &emsp;__L’adresse mail__   
-    &emsp;__Mot de passe__   
-    &emsp;__Nom__   
-    &emsp;__Prénom__
+&emsp;&emsp;__L’adresse mail__   
+&emsp;&emsp;__Mot de passe__   
+&emsp;&emsp;__Nom__   
+&emsp;&emsp;__Prénom__
 
 
 Pour la connexion :   
-    &emsp;__Adresse mail__   
-    &emsp;__Mot de passe__   
+&emsp;&emsp;__Adresse mail__   
+&emsp;&emsp;__Mot de passe__   
       
 Option :  
     ajouter un bouton “mot de passe oublié” avec l’emailing ainsi qu’utilisation de token dans l’url pour la sécurité  
@@ -47,7 +48,7 @@ Pour les articles il faut :
 &emsp;&emsp; __Date__   
 &emsp;&emsp; __Commentaires__   
 &emsp;&emsp; __Like__ , en affichant le nombre  
-
+  
 
 Sur la page d'accueil, seuls les 6 premier articles seront affichés, si la description dépasse les 50 caractères, on cachera le reste pour garder une taille fixe.  
 
@@ -63,29 +64,32 @@ Vous aurez 5 catégories d' articles à réaliser :
 &emsp;&emsp; __interviews__ 
       
 ## Les différents page   
-&emsp;&emsp;Utilisateurs :   
-&emsp;&emsp;&emsp;&emsp;    Page d’accueil   
-&emsp;&emsp;&emsp;&emsp;    Page avec tous les articles par catégorie (option : mettre une barre de recherche pour retrouver les articles)   
-&emsp;&emsp;&emsp;&emsp;     Une page par article  
-&emsp;&emsp;&emsp;&emsp;     Page pour voir son compte  
-&emsp;&emsp;&emsp;&emsp;     Page pour modifier son compte  
-&emsp;&emsp;&emsp;&emsp;     Page d’inscription   
-&emsp;&emsp;&emsp;&emsp;      Page de connexion  
-&emsp;&emsp;Rédacteur :   
-&emsp;&emsp;&emsp;&emsp; Page avec tous les articles (pour chacun de __SES__ articles accès à la page de l'article à la modification et la suppression + accès création) 
-&emsp;&emsp;&emsp;&emsp;(option : mettre une barre de recherche pour retrouver les articles)  
-&emsp;&emsp;&emsp;&emsp;    Une page par articles (accès à tous les commentaires avec possibilité de les supprimer)  
-&emsp;&emsp;&emsp;&emsp;   Page de création d’article  
-&emsp;&emsp;&emsp;&emsp;  Page de modification de ses articles  
-&emsp;&emsp;&emsp;&emsp;  Page pour voir son compte  
-&emsp;&emsp;&emsp;&emsp;  Page pour modifier son compte  
-&emsp;&emsp;  Admin :   
-&emsp;&emsp;&emsp;&emsp;  Page avec tous les articles (pour __TOUS__ les articles accès à la page de l'article à la modification et la suppression + accès création)
-&emsp;&emsp;&emsp;&emsp;(option : mettre une barre de recherche pour retrouver les articles)  
-&emsp;&emsp;&emsp;&emsp;  Une page par articles (accès à tous les commentaires avec possibilité de les supprimer)  
-&emsp;&emsp;&emsp;&emsp;   Page de création d’article  
-&emsp;&emsp;&emsp;&emsp;   Page de modification d’article  
-&emsp;&emsp;&emsp;&emsp;   Page pour voir son compte  
-&emsp;&emsp;&emsp;&emsp;   Page pour modifier son compte  
-&emsp;&emsp;&emsp;&emsp;  Page avec tous les utilisateurs (pour chaque utilisateur accès à la modification et la suppression)  
-&emsp;&emsp;&emsp;&emsp; Page modification utilisateur  
+
+Utilisateurs :   
+&emsp;&emsp;Page d’accueil   
+&emsp;&emsp;Page avec tous les articles par catégorie (option : mettre une barre de recherche pour retrouver les articles)   
+&emsp;&emsp;Une page par article  
+&emsp;&emsp;Page pour voir son compte  
+&emsp;&emsp;Page pour modifier son compte  
+&emsp;&emsp;Page d’inscription   
+&emsp;&emsp;Page de connexion  
+
+Rédacteur :   
+&emsp;&emsp;Page avec tous les articles (pour chacun de __SES__ articles accès à la page de l'article à la modification et la suppression + accès création)  
+&emsp;&emsp;(option : mettre une barre de recherche pour retrouver les articles)  
+&emsp;&emsp;Une page par articles (accès à tous les commentaires avec possibilité de les supprimer)  
+&emsp;&emsp;Page de création d’article  
+&emsp;&emsp;Page de modification de ses articles  
+&emsp;&emsp;Page pour voir son compte  
+&emsp;&emsp;Page pour modifier son compte  
+
+Admin :   
+&emsp;&emsp;Page avec tous les articles (pour __TOUS__ les articles accès à la page de l'article à la modification et la suppression + accès création)  
+&emsp;&emsp;(option : mettre une barre de recherche pour retrouver les articles)  
+&emsp;&emsp;Une page par articles (accès à tous les commentaires avec possibilité de les supprimer)  
+&emsp;&emsp;Page de création d’article  
+&emsp;&emsp;Page de modification d’article  
+&emsp;&emsp;Page pour voir son compte  
+&emsp;&emsp;Page pour modifier son compte  
+&emsp;&emsp;Page avec tous les utilisateurs (pour chaque utilisateur accès à la modification et la suppression)  
+&emsp;&emsp;Page modification utilisateur  
